@@ -1,0 +1,18 @@
+{
+  "name": "ci-cd",
+  "version": "1.0.0",
+  "description": "just testing ci cd",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ci",
+    "cd"
+  ],
+  "author": "osaru agbonaye",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
